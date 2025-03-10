@@ -1,0 +1,17 @@
+{
+  "enemies": [
+    {
+      "name": "Crab",
+      "start_pos": [9, 11],
+      "final_pos": [11, 11]
+    },
+    {
+      "name": "Crab",
+      "start_pos": [14,5],
+      "final_pos": [16,5]
+      
+    }
+  ]
+
+
+}
